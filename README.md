@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Daya-Dee
 - 👀 I’m interested in game design
 - 🌱 I’m in my senior year of high school
-- 💞️ I’m learning python
+- 💞️ I’m learning Python, Kotlin, and Java
 - 📫 How to reach me --> dayanamartg@gmail.com
 
 <!---
