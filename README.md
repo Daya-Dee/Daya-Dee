@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Daya-Dee
-- 👀 I’m interested in game design
-- 🌱 I’m in my senior year of high school
+- 🌱 I’m in my first year of university
 - 💞️ I’m learning Python, Kotlin, and Java
 
 <!---
